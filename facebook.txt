@@ -1,0 +1,11 @@
+cris_123,cris123,cristina,1,mac_123,1,lisa_123,loving the beach sun!!
+mac_123,mac123,mac,6,cris_123,sam_123,krishh_rock,vanshit15186,lisa_123,nikhil150,1,alice_123,Having fun in LA :D
+sam_123,sam123,samantha,5,mac_123,albert_123,drake_123,alice_123,krishh_rock,1,cris_123,house party rocks!!!
+albert_123,alb123,albert,2,sam_123,alice_123,1,lisa_123,road trip to grand canyon! loving it!
+alice_123,alice123,alice,4,albert_123,sam_123,andrew_123,drake_123,0,missing my cute dog :(
+andrew_123,andrew123,andrew,2,alice_123,krishh_rock,1,cris_123,happy holidays! Sleepy weekend :|
+drake_123,drake123,drake,3,alice_123,sam_123,lisa_123,3,cris_123,mac_123,andrew_123,love you all :)
+lisa_123,lisa123,lisa,2,drake_123,mac_123,1,andrew_123,having fun shopping!
+krishh_rock,krishan@1996,krishan,4,mac_123,andrew_123,sam_123,vanshit15186,2,lisa_123,nikhil150,I drink and i know things
+vanshit15186,vansh.1vansh,vanshit,2,mac_123,krishh_rock,0,winter is coming!!!
+nikhil150,nik123,nikhil,1,mac_123,0,my name is nikhil
