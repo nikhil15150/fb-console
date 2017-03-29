@@ -1,2 +1,3 @@
 # fb-console
-A 
+A console based social networking software build using java.
+
